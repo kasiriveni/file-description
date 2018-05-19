@@ -6,11 +6,23 @@ Details file description in github
 
 .editorconfig
 
+.eslintrc.js
+
+.prettierrc
+
+.stylelintrc
+
+### git 
+
 .gitattributes
 
 .gitignore
 
+### node
+
 .npmrc
+
+### CI
 
 .travis.yml
 
@@ -33,3 +45,10 @@ Details file description in github
  ### General files
  
  LICENSE.txt
+ 
+ 
+ ### tools 
+ 
+ webpack.config.js
+ gulpfile.js
+ Gruntfile.js
