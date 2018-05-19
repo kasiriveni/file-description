@@ -25,6 +25,10 @@ Details file description in github
  
  CODE_OF_CONDUCT.md
  
+ ISSUE_TEMPLATE.md
+ 
+ PULL_REQUEST_TEMPLATE.md
+ 
  
  ### General files
  
